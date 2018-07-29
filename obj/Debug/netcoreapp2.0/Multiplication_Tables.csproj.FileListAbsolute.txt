@@ -1,0 +1,10 @@
+C:\Users\S\Google Drive\CSharp\Multiplication_Tables\bin\Debug\netcoreapp2.0\Multiplication_Tables.deps.json
+C:\Users\S\Google Drive\CSharp\Multiplication_Tables\bin\Debug\netcoreapp2.0\Multiplication_Tables.runtimeconfig.json
+C:\Users\S\Google Drive\CSharp\Multiplication_Tables\bin\Debug\netcoreapp2.0\Multiplication_Tables.runtimeconfig.dev.json
+C:\Users\S\Google Drive\CSharp\Multiplication_Tables\bin\Debug\netcoreapp2.0\Multiplication_Tables.dll
+C:\Users\S\Google Drive\CSharp\Multiplication_Tables\bin\Debug\netcoreapp2.0\Multiplication_Tables.pdb
+C:\Users\S\Google Drive\CSharp\Multiplication_Tables\obj\Debug\netcoreapp2.0\Multiplication_Tables.csproj.CoreCompileInputs.cache
+C:\Users\S\Google Drive\CSharp\Multiplication_Tables\obj\Debug\netcoreapp2.0\Multiplication_Tables.AssemblyInfoInputs.cache
+C:\Users\S\Google Drive\CSharp\Multiplication_Tables\obj\Debug\netcoreapp2.0\Multiplication_Tables.AssemblyInfo.cs
+C:\Users\S\Google Drive\CSharp\Multiplication_Tables\obj\Debug\netcoreapp2.0\Multiplication_Tables.dll
+C:\Users\S\Google Drive\CSharp\Multiplication_Tables\obj\Debug\netcoreapp2.0\Multiplication_Tables.pdb
